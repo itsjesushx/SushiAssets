@@ -1,0 +1,377 @@
+{
+    "hats": [
+        {
+            "author": "Ressnie",
+            "bounce": true,
+            "condition": "None",
+            "name": "Kara hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "KaraHat.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "bounce": true,
+            "condition": "None",
+            "name": "Ben hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "BenHat.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "bounce": true,
+            "condition": "None",
+            "name": "Kara hat 2",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "KaraHat2.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "bounce": true,
+            "condition": "None",
+            "name": "Squirrel hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "SquirrelHat.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Squint hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "SquintHat.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Huge Cat hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Hugecat.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Sloth hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "SlothHat.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Knight hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "KnightHat.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Cat Noir hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "CatNoirHat.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Luffy hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "LuffyHat.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Hearts hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "HeartHat.png"
+        },
+        {
+            "author": "SugaNope",
+            "bounce": true,
+            "condition": "None",
+            "name": "Gay-ny Day hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "GaynyDay.png"
+        },
+        {
+            "author": "Pigoletto",
+            "bounce": true,
+            "condition": "None",
+            "name": "ZeRoyalViking hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Ze.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "bounce": true,
+            "condition": "None",
+            "name": "Falcone hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "falcone.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "bounce": true,
+            "condition": "None",
+            "name": "Wolfabelle hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "wolfabelle.png"
+        },
+        {
+            "author": "Ressnie",
+            "bounce": true,
+            "condition": "None",
+            "name": "Ozza hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Ozza.png"
+        },
+        {
+            "author": "SugaNope",
+            "bounce": true,
+            "condition": "None",
+            "name": "Rainy Day hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "RainyDay.png"
+        },
+        {
+            "author": "SugaNope",
+            "bounce": true,
+            "condition": "None",
+            "name": "Evil Aura hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "BadAura.png"
+        },
+        {
+            "author": "SugaNope",
+            "bounce": true,
+            "condition": "None",
+            "name": "Nice Aura hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "NiceAura.png"
+        },
+        {
+            "author": "Little Doo Doo",
+            "bounce": true,
+            "condition": "None",
+            "name": "Sunflower hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Sunflower.png"
+        },    
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Nich hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "NichHat.png"
+        },
+        {
+            "author": "Jsushi",
+            "adaptive": true,
+            "bounce": true,
+            "condition": "None",
+            "name": "Foxy hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "FoxHat.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "adaptive": true,
+            "bounce": true,
+            "condition": "None",
+            "name": "Charizard Adaptive hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "CharizardAdaptive.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "adaptive": true,
+            "bounce": true,
+            "condition": "None",
+            "name": "Ben Adaptive hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "BenHatAdaptive.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "bounce": true,
+            "condition": "None",
+            "name": "Jeremy hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Jeremy.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "bounce": true,
+            "condition": "None",
+            "name": "Toby hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "TobyHat.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "bounce": true,
+            "condition": "None",
+            "name": "Tomcraven hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Tomcraven.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Akumatized hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "AkumatizedVisor.png"
+        },
+        {
+            "author": "Ophidian",
+            "bounce": true,
+            "condition": "None",
+            "name": "Eyebrow hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "EyebrowVisor.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Henry face hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "HenryVisor.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Idea Hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "lightHat.png"
+        },
+        {
+            "author": "Jsushi",
+            "bounce": true,
+            "condition": "None",
+            "name": "Moyai Hat",
+            "package": "Jsushi Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Moyai.png"
+        },
+        {
+            "author": "PhasmoFireGod",
+            "bounce": true,
+            "condition": "None",
+            "name": "Glitch Hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Moyai.png"
+        },
+        {
+            "author": "Little Doo Doo",
+            "bounce": true,
+            "condition": "None",
+            "name": "Frog Hat (Original by Ressnie)",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "FrogHat.png"
+        },
+        {
+            "author": "Rum",
+            "bounce": true,
+            "condition": "None",
+            "name": "vGumiho Hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "vGumihoHat.png"
+        }, 
+        {
+            "author": "Ophidian",
+            "bounce": true,
+            "condition": "None",
+            "name": "Hovpool Hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "HovpoolHat.png"
+        },  
+        {
+            "author": "Ophidian",
+            "bounce": true,
+            "condition": "None",
+            "name": "Spiderhov Hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Spiderhov.png"
+        }                                                                                                                                                                         
+    ]
+}
