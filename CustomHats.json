@@ -297,31 +297,11 @@
             "author": "Jsushi",
             "bounce": true,
             "condition": "None",
-            "name": "Henry face hat",
-            "package": "Jsushi Hats",
-            "reshasha": "a1d29f24addac61053c3b219215838f4",
-            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "HenryVisor.png"
-        },
-        {
-            "author": "Jsushi",
-            "bounce": true,
-            "condition": "None",
             "name": "Idea Hat",
             "package": "Jsushi Hats",
             "reshasha": "a1d29f24addac61053c3b219215838f4",
             "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
             "resource": "lightHat.png"
-        },
-        {
-            "author": "Jsushi",
-            "bounce": true,
-            "condition": "None",
-            "name": "Moyai Hat",
-            "package": "Jsushi Hats",
-            "reshasha": "a1d29f24addac61053c3b219215838f4",
-            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "Moyai.png"
         },
         {
             "author": "PhasmoFireGod",
