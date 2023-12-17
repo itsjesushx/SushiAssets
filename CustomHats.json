@@ -294,16 +294,6 @@
             "resource": "EyebrowVisor.png"
         },
         {
-            "author": "Jsushi",
-            "bounce": true,
-            "condition": "None",
-            "name": "Idea Hat",
-            "package": "Jsushi Hats",
-            "reshasha": "a1d29f24addac61053c3b219215838f4",
-            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "lightHat.png"
-        },
-        {
             "author": "PhasmoFireGod",
             "bounce": true,
             "condition": "None",
@@ -311,47 +301,7 @@
             "package": "Mod Hats",
             "reshasha": "a1d29f24addac61053c3b219215838f4",
             "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "Moyai.png"
-        },
-        {
-            "author": "Little Doo Doo",
-            "bounce": true,
-            "condition": "None",
-            "name": "Frog Hat (Original by Ressnie)",
-            "package": "Mod Hats",
-            "reshasha": "a1d29f24addac61053c3b219215838f4",
-            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "FrogHat.png"
-        },
-        {
-            "author": "Rum",
-            "bounce": true,
-            "condition": "None",
-            "name": "vGumiho Hat",
-            "package": "Mod Hats",
-            "reshasha": "a1d29f24addac61053c3b219215838f4",
-            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "vGumihoHat.png"
-        }, 
-        {
-            "author": "Ophidian",
-            "bounce": true,
-            "condition": "None",
-            "name": "Hovpool Hat",
-            "package": "Mod Hats",
-            "reshasha": "a1d29f24addac61053c3b219215838f4",
-            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "HovpoolHat.png"
-        },  
-        {
-            "author": "Ophidian",
-            "bounce": true,
-            "condition": "None",
-            "name": "Spiderhov Hat",
-            "package": "Mod Hats",
-            "reshasha": "a1d29f24addac61053c3b219215838f4",
-            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "Spiderhov.png"
-        }                                                                                                                                                                         
+            "resource": "GlitchHat.png"
+        }                                                                                                                                      
     ]
 }
