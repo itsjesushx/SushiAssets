@@ -1,4 +1,2 @@
-![TheOtherHats Banner](./Images/TownOfSushiBanner.png)
-
-# TownOfSushi Assets
-This repository is for the assets of the TownOfSushi mod.
+# Sushi Assets
+This repository is for the assets that sushi will eventually use.
