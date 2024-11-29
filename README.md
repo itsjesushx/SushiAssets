@@ -1,2 +1,3 @@
-# Sushi Assets
-This repository is for the assets that i will use.
+# Assets
+
+***- This Repo is just for me to use for my mod!***
