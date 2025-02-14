@@ -128,7 +128,57 @@
             "package": "Mod Hats",
             "reshasha": "a1d29f24addac61053c3b219215838f4",
             "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "Ze.png"
+            "resource": "ZeHat.png"
+        },
+        {
+            "author": "Unknown",
+            "bounce": true,
+            "condition": "None",
+            "name": "Mask",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Mask1.png"
+        },
+        {
+            "author": "Unknown",
+            "bounce": true,
+            "condition": "None",
+            "name": "Fairy Det",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "FairlyDet.png"
+        },
+        {
+            "author": "Unknown",
+            "bounce": true,
+            "condition": "None",
+            "name": "Kruzadar Hat",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Kruzadar.png"
+        },
+        {
+            "author": "Unknown",
+            "bounce": true,
+            "condition": "None",
+            "name": "Mask 3",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Mask3.png"
+        },
+        {
+            "author": "Unknown",
+            "bounce": true,
+            "condition": "None",
+            "name": "Mask 2",
+            "package": "Mod Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "Mask2.png"
         },
         {
             "author": "TheLastShaymin",
